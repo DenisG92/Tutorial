@@ -35,7 +35,7 @@ body {
     color:#4d5ae5;
     text-transform: uppercase; 
 }
-.stydio {
+.menu-linc {
     color: #2e2f42;
 }
 .menu-list {
@@ -66,6 +66,9 @@ body {
     text-align: left;
     color: #2e2f42;
 }
+.address {
+    font-style: normal;
+}
 .address-list {
     font-family: Roboto;
     font-size: 16px;
@@ -85,8 +88,9 @@ body {
     text-align: left;
     font-style: normal;
     color: #434455;
+    :hover;color: #404bbf
 }
-.contacts-mail {
+.address-tel {
     font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
